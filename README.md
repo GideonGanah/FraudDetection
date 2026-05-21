@@ -1,7 +1,7 @@
 # FraudDetection
 
 # Main Problems the Project is Trying to Solve
-1. Detect Fraudulent Transactions in Real Time
+1. Detect Fraudulent Transactions in Real Time.
 Digital payment platforms need to identify suspicious transactions instantly to prevent financial losses while maintaining smooth transaction processing.
 
 2. Reduce Financial Losses
@@ -11,15 +11,15 @@ Refund costs
 Unauthorized payments
 Compliance penalties
 Revenue leakage from undetected fraud
-3. Minimize False Positives
 
+4. Minimize False Positives
 Current rule-based systems often block legitimate transactions. The project seeks to reduce incorrect fraud alerts that negatively affect customer experience and retention.
 
 4. Improve Detection of Evolving Fraud Patterns
 Fraudsters constantly change tactics such as:
-Identity theft
-Account takeover
-Transaction laundering
+Identity theft,
+Account takeover,
+Transaction laundering, and
 Suspicious cross-border activity
 A machine learning model can adapt better than static rule-based systems.
 
@@ -28,9 +28,9 @@ Fraud transactions represent less than 1% of all transactions, making it difficu
 
 6. Support Regulatory Compliance
 The solution must provide transparent and explainable fraud decisions to support:
-Anti-Money Laundering (AML)
-Know Your Customer (KYC)
-Financial auditing requirements
+Anti-Money Laundering (AML),
+Know Your Customer (KYC),
+Financial auditing requirements,
 
 7. Automate and Scale Fraud Detection
 Manual reviews cannot scale effectively with growing transaction volumes. The project aims to automate fraud detection while maintaining accuracy.
