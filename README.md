@@ -47,3 +47,4 @@ This variable is derived from:
 Confirmed fraud investigations
 Verified chargebacks
 Customer disputes
+ 
